@@ -1,0 +1,6 @@
+# ember-sfc-syntax-highlight Changelog
+
+## 0.1.0
+
+First release
+
